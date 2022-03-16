@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Context Aware App",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
